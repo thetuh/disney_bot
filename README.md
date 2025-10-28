@@ -1,6 +1,6 @@
 # Disney Bot
 
-Automates checking and booking Disney parks reservations using Selenium.
+Automates checking and booking Disney park reservations using Selenium.
 
 ---
 
